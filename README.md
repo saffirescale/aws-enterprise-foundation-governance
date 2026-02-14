@@ -1,4 +1,4 @@
-# AWS Infrastructure Foundation Template
+# aws-enterprise-foundation-governance
 
 ## Purpose
 
